@@ -7,7 +7,7 @@
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<authorEmail>max@imageinnova.com</authorEmail>
 	<authorUrl>www.imageinnova.com</authorUrl>
-	<version>0.1</version>
+	<version>1.0</version>
 	<description>MOD_IINAVBAR_XML_DESCRIPTION</description>
 	<files>
 		<filename module="mod_iinavbar">mod_iinavbar.php</filename>
